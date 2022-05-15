@@ -1,0 +1,587 @@
+Loading features from cached file dataset/cluener/cached_crf-train_bilstm_crf_ner
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 1 -  loss: 26.1284 - eval_loss: 22.0375 - eval_acc: 0.4548 - eval_recall: 0.3223 - eval_f1: 0.3772 
+
+Epoch 1: eval_f1 improved from 0 to 0.37721470756334546
+save model to disk.
+Subject: address - Acc: 0.2897 - Recall: 0.1126 - F1: 0.1622
+Subject: position - Acc: 0.704 - Recall: 0.4065 - F1: 0.5154
+Subject: name - Acc: 0.3453 - Recall: 0.2473 - F1: 0.2882
+Subject: company - Acc: 0.3917 - Recall: 0.373 - F1: 0.3821
+Subject: movie - Acc: 0.375 - Recall: 0.3974 - F1: 0.3859
+Subject: game - Acc: 0.563 - Recall: 0.6508 - F1: 0.6038
+Subject: organization - Acc: 0.4461 - Recall: 0.327 - F1: 0.3774
+Subject: scene - Acc: 0.4521 - Recall: 0.1579 - F1: 0.234
+Subject: government - Acc: 0.402 - Recall: 0.332 - F1: 0.3636
+Subject: book - Acc: 0.6905 - Recall: 0.1883 - F1: 0.2959
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 2 -  loss: 14.1618 - eval_loss: 17.0061 - eval_acc: 0.5444 - eval_recall: 0.4808 - eval_f1: 0.5106 
+
+Epoch 2: eval_f1 improved from 0.37721470756334546 to 0.5106309420916163
+save model to disk.
+Subject: address - Acc: 0.3692 - Recall: 0.193 - F1: 0.2535
+Subject: position - Acc: 0.6797 - Recall: 0.5635 - F1: 0.6162
+Subject: name - Acc: 0.5801 - Recall: 0.4753 - F1: 0.5225
+Subject: company - Acc: 0.5055 - Recall: 0.4841 - F1: 0.4946
+Subject: movie - Acc: 0.4863 - Recall: 0.4702 - F1: 0.4781
+Subject: game - Acc: 0.4924 - Recall: 0.7695 - F1: 0.6005
+Subject: organization - Acc: 0.5669 - Recall: 0.6349 - F1: 0.599
+Subject: scene - Acc: 0.4156 - Recall: 0.3062 - F1: 0.3526
+Subject: government - Acc: 0.627 - Recall: 0.4696 - F1: 0.537
+Subject: book - Acc: 0.7797 - Recall: 0.2987 - F1: 0.4319
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 3 -  loss: 9.8023 - eval_loss: 14.2679 - eval_acc: 0.5795 - eval_recall: 0.5609 - eval_f1: 0.5701 
+
+Epoch 3: eval_f1 improved from 0.5106309420916163 to 0.5700578990901571
+save model to disk.
+Subject: address - Acc: 0.4174 - Recall: 0.2708 - F1: 0.3285
+Subject: position - Acc: 0.6606 - Recall: 0.6651 - F1: 0.6628
+Subject: name - Acc: 0.6075 - Recall: 0.5957 - F1: 0.6015
+Subject: company - Acc: 0.5286 - Recall: 0.537 - F1: 0.5328
+Subject: movie - Acc: 0.4976 - Recall: 0.6887 - F1: 0.5778
+Subject: game - Acc: 0.6341 - Recall: 0.7695 - F1: 0.6953
+Subject: organization - Acc: 0.6512 - Recall: 0.6512 - F1: 0.6512
+Subject: scene - Acc: 0.3991 - Recall: 0.4258 - F1: 0.412
+Subject: government - Acc: 0.6035 - Recall: 0.5547 - F1: 0.5781
+Subject: book - Acc: 0.8169 - Recall: 0.3766 - F1: 0.5156
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 4 -  loss: 7.0583 - eval_loss: 13.3544 - eval_acc: 0.5886 - eval_recall: 0.5928 - eval_f1: 0.5907 
+
+Epoch 4: eval_f1 improved from 0.5700578990901571 to 0.5906584495621148
+save model to disk.
+Subject: address - Acc: 0.3571 - Recall: 0.2815 - F1: 0.3148
+Subject: position - Acc: 0.621 - Recall: 0.7113 - F1: 0.6631
+Subject: name - Acc: 0.5928 - Recall: 0.6731 - F1: 0.6304
+Subject: company - Acc: 0.5789 - Recall: 0.582 - F1: 0.5805
+Subject: movie - Acc: 0.478 - Recall: 0.649 - F1: 0.5506
+Subject: game - Acc: 0.7394 - Recall: 0.7695 - F1: 0.7542
+Subject: organization - Acc: 0.7412 - Recall: 0.6322 - F1: 0.6824
+Subject: scene - Acc: 0.424 - Recall: 0.4402 - F1: 0.4319
+Subject: government - Acc: 0.625 - Recall: 0.5668 - F1: 0.5945
+Subject: book - Acc: 0.6615 - Recall: 0.5584 - F1: 0.6056
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 5 -  loss: 5.3411 - eval_loss: 12.9831 - eval_acc: 0.6003 - eval_recall: 0.6126 - eval_f1: 0.6064 
+
+Epoch 5: eval_f1 improved from 0.5906584495621148 to 0.6064121153536329
+save model to disk.
+Subject: address - Acc: 0.5143 - Recall: 0.2895 - F1: 0.3705
+Subject: position - Acc: 0.6012 - Recall: 0.679 - F1: 0.6377
+Subject: name - Acc: 0.6521 - Recall: 0.6731 - F1: 0.6624
+Subject: company - Acc: 0.5651 - Recall: 0.6429 - F1: 0.6015
+Subject: movie - Acc: 0.631 - Recall: 0.702 - F1: 0.6646
+Subject: game - Acc: 0.6732 - Recall: 0.8102 - F1: 0.7354
+Subject: organization - Acc: 0.6501 - Recall: 0.7139 - F1: 0.6805
+Subject: scene - Acc: 0.3919 - Recall: 0.512 - F1: 0.444
+Subject: government - Acc: 0.6438 - Recall: 0.5709 - F1: 0.6052
+Subject: book - Acc: 0.6389 - Recall: 0.4481 - F1: 0.5267
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 6 -  loss: 4.0093 - eval_loss: 13.0257 - eval_acc: 0.6025 - eval_recall: 0.6504 - eval_f1: 0.6255 
+
+Epoch 6: eval_f1 improved from 0.6064121153536329 to 0.6255479023168441
+save model to disk.
+Subject: address - Acc: 0.4438 - Recall: 0.4129 - F1: 0.4278
+Subject: position - Acc: 0.6746 - Recall: 0.7182 - F1: 0.6957
+Subject: name - Acc: 0.6298 - Recall: 0.7097 - F1: 0.6673
+Subject: company - Acc: 0.5877 - Recall: 0.6561 - F1: 0.62
+Subject: movie - Acc: 0.5819 - Recall: 0.6821 - F1: 0.628
+Subject: game - Acc: 0.6629 - Recall: 0.8 - F1: 0.725
+Subject: organization - Acc: 0.5882 - Recall: 0.7357 - F1: 0.6538
+Subject: scene - Acc: 0.5 - Recall: 0.4785 - F1: 0.489
+Subject: government - Acc: 0.6458 - Recall: 0.7085 - F1: 0.6757
+Subject: book - Acc: 0.7172 - Recall: 0.461 - F1: 0.5613
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 7 -  loss: 3.0789 - eval_loss: 12.9188 - eval_acc: 0.6478 - eval_recall: 0.6377 - eval_f1: 0.6427 
+
+Epoch 7: eval_f1 improved from 0.6255479023168441 to 0.6427165354330708
+save model to disk.
+Subject: address - Acc: 0.4803 - Recall: 0.3914 - F1: 0.4313
+Subject: position - Acc: 0.7573 - Recall: 0.6559 - F1: 0.703
+Subject: name - Acc: 0.6602 - Recall: 0.7355 - F1: 0.6958
+Subject: company - Acc: 0.58 - Recall: 0.6614 - F1: 0.618
+Subject: movie - Acc: 0.6209 - Recall: 0.7483 - F1: 0.6787
+Subject: game - Acc: 0.7292 - Recall: 0.8034 - F1: 0.7645
+Subject: organization - Acc: 0.7632 - Recall: 0.7112 - F1: 0.7362
+Subject: scene - Acc: 0.4398 - Recall: 0.4545 - F1: 0.4471
+Subject: government - Acc: 0.6951 - Recall: 0.6923 - F1: 0.6937
+Subject: book - Acc: 0.7059 - Recall: 0.3896 - F1: 0.5021
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 8 -  loss: 2.3213 - eval_loss: 12.7505 - eval_acc: 0.6420 - eval_recall: 0.6416 - eval_f1: 0.6418 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 9 -  loss: 1.8524 - eval_loss: 13.9218 - eval_acc: 0.6612 - eval_recall: 0.6263 - eval_f1: 0.6433 
+
+Epoch 9: eval_f1 improved from 0.6427165354330708 to 0.6432631227014376
+save model to disk.
+Subject: address - Acc: 0.5658 - Recall: 0.3458 - F1: 0.4293
+Subject: position - Acc: 0.8056 - Recall: 0.6605 - F1: 0.7259
+Subject: name - Acc: 0.7676 - Recall: 0.6323 - F1: 0.6934
+Subject: company - Acc: 0.6383 - Recall: 0.6958 - F1: 0.6658
+Subject: movie - Acc: 0.6441 - Recall: 0.5033 - F1: 0.5651
+Subject: game - Acc: 0.6247 - Recall: 0.8407 - F1: 0.7168
+Subject: organization - Acc: 0.6588 - Recall: 0.7575 - F1: 0.7047
+Subject: scene - Acc: 0.4879 - Recall: 0.5789 - F1: 0.5295
+Subject: government - Acc: 0.6278 - Recall: 0.6761 - F1: 0.6511
+Subject: book - Acc: 0.7654 - Recall: 0.4026 - F1: 0.5277
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 10 -  loss: 1.4865 - eval_loss: 13.0059 - eval_acc: 0.6485 - eval_recall: 0.6654 - eval_f1: 0.6568 
+
+Epoch 10: eval_f1 improved from 0.6432631227014376 to 0.6568123393316195
+save model to disk.
+Subject: address - Acc: 0.4788 - Recall: 0.4236 - F1: 0.4495
+Subject: position - Acc: 0.7669 - Recall: 0.6536 - F1: 0.7057
+Subject: name - Acc: 0.6699 - Recall: 0.7505 - F1: 0.7079
+Subject: company - Acc: 0.6415 - Recall: 0.7196 - F1: 0.6783
+Subject: movie - Acc: 0.6049 - Recall: 0.649 - F1: 0.6262
+Subject: game - Acc: 0.7033 - Recall: 0.8034 - F1: 0.75
+Subject: organization - Acc: 0.7095 - Recall: 0.752 - F1: 0.7302
+Subject: scene - Acc: 0.4365 - Recall: 0.5263 - F1: 0.4772
+Subject: government - Acc: 0.6818 - Recall: 0.7287 - F1: 0.7045
+Subject: book - Acc: 0.7788 - Recall: 0.526 - F1: 0.6279
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 11 -  loss: 1.2248 - eval_loss: 13.3471 - eval_acc: 0.6689 - eval_recall: 0.6536 - eval_f1: 0.6612 
+
+Epoch 11: eval_f1 improved from 0.6568123393316195 to 0.661178794863352
+save model to disk.
+Subject: address - Acc: 0.4971 - Recall: 0.4558 - F1: 0.4755
+Subject: position - Acc: 0.7442 - Recall: 0.6721 - F1: 0.7063
+Subject: name - Acc: 0.7667 - Recall: 0.714 - F1: 0.7394
+Subject: company - Acc: 0.7294 - Recall: 0.6561 - F1: 0.6908
+Subject: movie - Acc: 0.75 - Recall: 0.5364 - F1: 0.6255
+Subject: game - Acc: 0.6366 - Recall: 0.861 - F1: 0.732
+Subject: organization - Acc: 0.6566 - Recall: 0.7711 - F1: 0.7093
+Subject: scene - Acc: 0.5738 - Recall: 0.5024 - F1: 0.5357
+Subject: government - Acc: 0.614 - Recall: 0.6761 - F1: 0.6435
+Subject: book - Acc: 0.7476 - Recall: 0.5 - F1: 0.5992
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 12 -  loss: 0.9702 - eval_loss: 12.5891 - eval_acc: 0.6783 - eval_recall: 0.6624 - eval_f1: 0.6703 
+
+Epoch 12: eval_f1 improved from 0.661178794863352 to 0.6702898550724637
+save model to disk.
+Subject: address - Acc: 0.5 - Recall: 0.4504 - F1: 0.4739
+Subject: position - Acc: 0.7533 - Recall: 0.6628 - F1: 0.7052
+Subject: name - Acc: 0.7047 - Recall: 0.7441 - F1: 0.7238
+Subject: company - Acc: 0.7463 - Recall: 0.6693 - F1: 0.7057
+Subject: movie - Acc: 0.7029 - Recall: 0.6424 - F1: 0.6713
+Subject: game - Acc: 0.7198 - Recall: 0.8271 - F1: 0.7697
+Subject: organization - Acc: 0.7031 - Recall: 0.7357 - F1: 0.719
+Subject: scene - Acc: 0.5572 - Recall: 0.5359 - F1: 0.5463
+Subject: government - Acc: 0.6502 - Recall: 0.6923 - F1: 0.6706
+Subject: book - Acc: 0.6797 - Recall: 0.5649 - F1: 0.617
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 13 -  loss: 0.8499 - eval_loss: 13.4008 - eval_acc: 0.6932 - eval_recall: 0.6787 - eval_f1: 0.6859 
+
+Epoch 13: eval_f1 improved from 0.6702898550724637 to 0.6858552631578947
+save model to disk.
+Subject: address - Acc: 0.516 - Recall: 0.5174 - F1: 0.5167
+Subject: position - Acc: 0.7772 - Recall: 0.6928 - F1: 0.7326
+Subject: name - Acc: 0.7062 - Recall: 0.7548 - F1: 0.7297
+Subject: company - Acc: 0.7056 - Recall: 0.672 - F1: 0.6883
+Subject: movie - Acc: 0.7259 - Recall: 0.649 - F1: 0.6853
+Subject: game - Acc: 0.739 - Recall: 0.8542 - F1: 0.7925
+Subject: organization - Acc: 0.7312 - Recall: 0.7411 - F1: 0.7361
+Subject: scene - Acc: 0.6053 - Recall: 0.5502 - F1: 0.5764
+Subject: government - Acc: 0.6807 - Recall: 0.6559 - F1: 0.668
+Subject: book - Acc: 0.7652 - Recall: 0.5714 - F1: 0.6543
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 14 -  loss: 0.7324 - eval_loss: 13.6223 - eval_acc: 0.6703 - eval_recall: 0.6605 - eval_f1: 0.6654 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 15 -  loss: 0.6385 - eval_loss: 12.9313 - eval_acc: 0.6943 - eval_recall: 0.6823 - eval_f1: 0.6882 
+
+Epoch 15: eval_f1 improved from 0.6858552631578947 to 0.688228533902479
+save model to disk.
+Subject: address - Acc: 0.4986 - Recall: 0.4772 - F1: 0.4877
+Subject: position - Acc: 0.7551 - Recall: 0.6905 - F1: 0.7214
+Subject: name - Acc: 0.6971 - Recall: 0.772 - F1: 0.7327
+Subject: company - Acc: 0.745 - Recall: 0.6958 - F1: 0.7196
+Subject: movie - Acc: 0.7261 - Recall: 0.755 - F1: 0.7403
+Subject: game - Acc: 0.7735 - Recall: 0.8102 - F1: 0.7914
+Subject: organization - Acc: 0.7317 - Recall: 0.7357 - F1: 0.7337
+Subject: scene - Acc: 0.5526 - Recall: 0.5024 - F1: 0.5263
+Subject: government - Acc: 0.677 - Recall: 0.7045 - F1: 0.6905
+Subject: book - Acc: 0.819 - Recall: 0.6169 - F1: 0.7037
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 16 -  loss: 0.5359 - eval_loss: 13.3674 - eval_acc: 0.6993 - eval_recall: 0.6729 - eval_f1: 0.6858 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 17 -  loss: 0.4632 - eval_loss: 13.2140 - eval_acc: 0.6901 - eval_recall: 0.6777 - eval_f1: 0.6839 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 18 -  loss: 0.3925 - eval_loss: 13.9721 - eval_acc: 0.6795 - eval_recall: 0.6641 - eval_f1: 0.6717 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 19 -  loss: 0.3350 - eval_loss: 13.5288 - eval_acc: 0.6970 - eval_recall: 0.6709 - eval_f1: 0.6837 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 20 -  loss: 0.2379 - eval_loss: 12.7711 - eval_acc: 0.7117 - eval_recall: 0.6943 - eval_f1: 0.7029 
+
+Epoch 20: eval_f1 improved from 0.688228533902479 to 0.7029164607019278
+save model to disk.
+Subject: address - Acc: 0.5101 - Recall: 0.4745 - F1: 0.4917
+Subject: position - Acc: 0.7745 - Recall: 0.7298 - F1: 0.7515
+Subject: name - Acc: 0.7584 - Recall: 0.729 - F1: 0.7434
+Subject: company - Acc: 0.7527 - Recall: 0.7249 - F1: 0.7385
+Subject: movie - Acc: 0.7305 - Recall: 0.6821 - F1: 0.7055
+Subject: game - Acc: 0.7469 - Recall: 0.8203 - F1: 0.7819
+Subject: organization - Acc: 0.7953 - Recall: 0.7411 - F1: 0.7673
+Subject: scene - Acc: 0.5346 - Recall: 0.555 - F1: 0.5446
+Subject: government - Acc: 0.6797 - Recall: 0.7733 - F1: 0.7235
+Subject: book - Acc: 0.8175 - Recall: 0.6688 - F1: 0.7357
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 21 -  loss: 0.1211 - eval_loss: 12.7882 - eval_acc: 0.7221 - eval_recall: 0.6943 - eval_f1: 0.7079 
+
+Epoch 21: eval_f1 improved from 0.7029164607019278 to 0.7079322933952871
+save model to disk.
+Subject: address - Acc: 0.5635 - Recall: 0.4638 - F1: 0.5088
+Subject: position - Acc: 0.7681 - Recall: 0.7344 - F1: 0.7509
+Subject: name - Acc: 0.7821 - Recall: 0.7333 - F1: 0.7569
+Subject: company - Acc: 0.7207 - Recall: 0.7169 - F1: 0.7188
+Subject: movie - Acc: 0.7447 - Recall: 0.6954 - F1: 0.7192
+Subject: game - Acc: 0.7588 - Recall: 0.8 - F1: 0.7789
+Subject: organization - Acc: 0.7756 - Recall: 0.7629 - F1: 0.7692
+Subject: scene - Acc: 0.5979 - Recall: 0.555 - F1: 0.5757
+Subject: government - Acc: 0.6831 - Recall: 0.7854 - F1: 0.7307
+Subject: book - Acc: 0.7615 - Recall: 0.6429 - F1: 0.6972
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 22 -  loss: 0.0878 - eval_loss: 12.8087 - eval_acc: 0.7183 - eval_recall: 0.7015 - eval_f1: 0.7098 
+
+Epoch 22: eval_f1 improved from 0.7079322933952871 to 0.7098155467720686
+save model to disk.
+Subject: address - Acc: 0.5364 - Recall: 0.4745 - F1: 0.5036
+Subject: position - Acc: 0.778 - Recall: 0.7367 - F1: 0.7568
+Subject: name - Acc: 0.7637 - Recall: 0.7505 - F1: 0.757
+Subject: company - Acc: 0.6987 - Recall: 0.7302 - F1: 0.7141
+Subject: movie - Acc: 0.7397 - Recall: 0.7152 - F1: 0.7273
+Subject: game - Acc: 0.7785 - Recall: 0.8102 - F1: 0.794
+Subject: organization - Acc: 0.7818 - Recall: 0.7711 - F1: 0.7764
+Subject: scene - Acc: 0.5867 - Recall: 0.5502 - F1: 0.5679
+Subject: government - Acc: 0.7068 - Recall: 0.7611 - F1: 0.7329
+Subject: book - Acc: 0.771 - Recall: 0.6558 - F1: 0.7088
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 23 -  loss: 0.0747 - eval_loss: 13.1860 - eval_acc: 0.7181 - eval_recall: 0.7031 - eval_f1: 0.7105 
+
+Epoch 23: eval_f1 improved from 0.7098155467720686 to 0.7105263157894737
+save model to disk.
+Subject: address - Acc: 0.5436 - Recall: 0.5013 - F1: 0.5216
+Subject: position - Acc: 0.7783 - Recall: 0.7298 - F1: 0.7533
+Subject: name - Acc: 0.7655 - Recall: 0.7441 - F1: 0.7546
+Subject: company - Acc: 0.7194 - Recall: 0.746 - F1: 0.7325
+Subject: movie - Acc: 0.7171 - Recall: 0.7219 - F1: 0.7195
+Subject: game - Acc: 0.7767 - Recall: 0.7898 - F1: 0.7832
+Subject: organization - Acc: 0.7599 - Recall: 0.7847 - F1: 0.7721
+Subject: scene - Acc: 0.5838 - Recall: 0.5167 - F1: 0.5482
+Subject: government - Acc: 0.7 - Recall: 0.7652 - F1: 0.7311
+Subject: book - Acc: 0.7969 - Recall: 0.6623 - F1: 0.7234
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 24 -  loss: 0.0587 - eval_loss: 13.3421 - eval_acc: 0.7230 - eval_recall: 0.6966 - eval_f1: 0.7095 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 25 -  loss: 0.0557 - eval_loss: 13.5541 - eval_acc: 0.7208 - eval_recall: 0.7018 - eval_f1: 0.7112 
+
+Epoch 25: eval_f1 improved from 0.7105263157894737 to 0.7111990763648359
+save model to disk.
+Subject: address - Acc: 0.5408 - Recall: 0.4799 - F1: 0.5085
+Subject: position - Acc: 0.7748 - Recall: 0.739 - F1: 0.7565
+Subject: name - Acc: 0.7505 - Recall: 0.7505 - F1: 0.7505
+Subject: company - Acc: 0.708 - Recall: 0.7249 - F1: 0.7163
+Subject: movie - Acc: 0.726 - Recall: 0.702 - F1: 0.7138
+Subject: game - Acc: 0.7862 - Recall: 0.8102 - F1: 0.798
+Subject: organization - Acc: 0.7682 - Recall: 0.7766 - F1: 0.7724
+Subject: scene - Acc: 0.6391 - Recall: 0.5167 - F1: 0.5714
+Subject: government - Acc: 0.6985 - Recall: 0.7692 - F1: 0.7322
+Subject: book - Acc: 0.797 - Recall: 0.6883 - F1: 0.7387
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 26 -  loss: 0.0661 - eval_loss: 14.0434 - eval_acc: 0.7161 - eval_recall: 0.6973 - eval_f1: 0.7066 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 27 -  loss: 0.0580 - eval_loss: 13.8100 - eval_acc: 0.7227 - eval_recall: 0.7025 - eval_f1: 0.7124 
+
+Epoch 27: eval_f1 improved from 0.7111990763648359 to 0.7124463519313305
+save model to disk.
+Subject: address - Acc: 0.5563 - Recall: 0.4772 - F1: 0.5137
+Subject: position - Acc: 0.7584 - Recall: 0.7321 - F1: 0.745
+Subject: name - Acc: 0.7324 - Recall: 0.7591 - F1: 0.7455
+Subject: company - Acc: 0.7294 - Recall: 0.7275 - F1: 0.7285
+Subject: movie - Acc: 0.7603 - Recall: 0.7351 - F1: 0.7475
+Subject: game - Acc: 0.7902 - Recall: 0.8169 - F1: 0.8033
+Subject: organization - Acc: 0.7812 - Recall: 0.7493 - F1: 0.765
+Subject: scene - Acc: 0.6215 - Recall: 0.5263 - F1: 0.5699
+Subject: government - Acc: 0.7004 - Recall: 0.7854 - F1: 0.7405
+Subject: book - Acc: 0.7879 - Recall: 0.6753 - F1: 0.7273
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 28 -  loss: 0.0509 - eval_loss: 14.2749 - eval_acc: 0.7187 - eval_recall: 0.6979 - eval_f1: 0.7082 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 29 -  loss: 0.0556 - eval_loss: 14.9078 - eval_acc: 0.7135 - eval_recall: 0.6891 - eval_f1: 0.7011 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 30 -  loss: 0.0576 - eval_loss: 14.4038 - eval_acc: 0.7206 - eval_recall: 0.6934 - eval_f1: 0.7067 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 31 -  loss: 0.0707 - eval_loss: 14.5020 - eval_acc: 0.7140 - eval_recall: 0.6947 - eval_f1: 0.7042 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 32 -  loss: 0.0691 - eval_loss: 14.2331 - eval_acc: 0.7164 - eval_recall: 0.6989 - eval_f1: 0.7075 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 33 -  loss: 0.0406 - eval_loss: 14.3558 - eval_acc: 0.7187 - eval_recall: 0.7028 - eval_f1: 0.7107 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 34 -  loss: 0.0303 - eval_loss: 14.4969 - eval_acc: 0.7299 - eval_recall: 0.6986 - eval_f1: 0.7139 
+
+Epoch 34: eval_f1 improved from 0.7124463519313305 to 0.7139055222887559
+save model to disk.
+Subject: address - Acc: 0.5593 - Recall: 0.4933 - F1: 0.5242
+Subject: position - Acc: 0.7756 - Recall: 0.7344 - F1: 0.7544
+Subject: name - Acc: 0.7689 - Recall: 0.7441 - F1: 0.7563
+Subject: company - Acc: 0.7459 - Recall: 0.7222 - F1: 0.7339
+Subject: movie - Acc: 0.7415 - Recall: 0.7219 - F1: 0.7315
+Subject: game - Acc: 0.7692 - Recall: 0.8136 - F1: 0.7908
+Subject: organization - Acc: 0.7624 - Recall: 0.752 - F1: 0.7572
+Subject: scene - Acc: 0.6543 - Recall: 0.5072 - F1: 0.5714
+Subject: government - Acc: 0.7111 - Recall: 0.7773 - F1: 0.7427
+Subject: book - Acc: 0.7727 - Recall: 0.6623 - F1: 0.7133
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 35 -  loss: 0.0258 - eval_loss: 14.6351 - eval_acc: 0.7168 - eval_recall: 0.7038 - eval_f1: 0.7102 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 36 -  loss: 0.0301 - eval_loss: 14.9602 - eval_acc: 0.7197 - eval_recall: 0.7044 - eval_f1: 0.7120 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 37 -  loss: 0.0248 - eval_loss: 14.8890 - eval_acc: 0.7273 - eval_recall: 0.6989 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 38 -  loss: 0.0241 - eval_loss: 14.8312 - eval_acc: 0.7261 - eval_recall: 0.7015 - eval_f1: 0.7136 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 39 -  loss: 0.0228 - eval_loss: 15.0629 - eval_acc: 0.7347 - eval_recall: 0.6979 - eval_f1: 0.7159 
+
+Epoch 39: eval_f1 improved from 0.7139055222887559 to 0.7158597662771286
+save model to disk.
+Subject: address - Acc: 0.5391 - Recall: 0.5174 - F1: 0.528
+Subject: position - Acc: 0.7883 - Recall: 0.7136 - F1: 0.7491
+Subject: name - Acc: 0.7692 - Recall: 0.7527 - F1: 0.7609
+Subject: company - Acc: 0.7635 - Recall: 0.709 - F1: 0.7353
+Subject: movie - Acc: 0.732 - Recall: 0.7417 - F1: 0.7368
+Subject: game - Acc: 0.7926 - Recall: 0.8034 - F1: 0.798
+Subject: organization - Acc: 0.7765 - Recall: 0.7575 - F1: 0.7669
+Subject: scene - Acc: 0.671 - Recall: 0.4976 - F1: 0.5714
+Subject: government - Acc: 0.7252 - Recall: 0.7692 - F1: 0.7466
+Subject: book - Acc: 0.763 - Recall: 0.6688 - F1: 0.7128
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 40 -  loss: 0.0199 - eval_loss: 15.0401 - eval_acc: 0.7326 - eval_recall: 0.6956 - eval_f1: 0.7136 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 41 -  loss: 0.0175 - eval_loss: 14.9883 - eval_acc: 0.7227 - eval_recall: 0.7008 - eval_f1: 0.7116 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 42 -  loss: 0.0177 - eval_loss: 15.1437 - eval_acc: 0.7286 - eval_recall: 0.6973 - eval_f1: 0.7126 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 43 -  loss: 0.0143 - eval_loss: 15.2339 - eval_acc: 0.7270 - eval_recall: 0.7005 - eval_f1: 0.7135 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 44 -  loss: 0.0154 - eval_loss: 15.3592 - eval_acc: 0.7333 - eval_recall: 0.6982 - eval_f1: 0.7154 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 45 -  loss: 0.0131 - eval_loss: 15.3500 - eval_acc: 0.7308 - eval_recall: 0.7008 - eval_f1: 0.7155 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 46 -  loss: 0.0141 - eval_loss: 15.3998 - eval_acc: 0.7371 - eval_recall: 0.6963 - eval_f1: 0.7161 
+
+Epoch 46: eval_f1 improved from 0.7158597662771286 to 0.7161031134917978
+save model to disk.
+Subject: address - Acc: 0.5513 - Recall: 0.504 - F1: 0.5266
+Subject: position - Acc: 0.7899 - Recall: 0.7206 - F1: 0.7536
+Subject: name - Acc: 0.7709 - Recall: 0.7527 - F1: 0.7617
+Subject: company - Acc: 0.7578 - Recall: 0.7037 - F1: 0.7298
+Subject: movie - Acc: 0.74 - Recall: 0.7351 - F1: 0.7375
+Subject: game - Acc: 0.7855 - Recall: 0.8068 - F1: 0.796
+Subject: organization - Acc: 0.7861 - Recall: 0.7411 - F1: 0.763
+Subject: scene - Acc: 0.681 - Recall: 0.5311 - F1: 0.5968
+Subject: government - Acc: 0.7143 - Recall: 0.7692 - F1: 0.7407
+Subject: book - Acc: 0.7594 - Recall: 0.6558 - F1: 0.7038
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 47 -  loss: 0.0139 - eval_loss: 15.3479 - eval_acc: 0.7321 - eval_recall: 0.6982 - eval_f1: 0.7148 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 48 -  loss: 0.0120 - eval_loss: 15.4538 - eval_acc: 0.7313 - eval_recall: 0.6963 - eval_f1: 0.7134 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 49 -  loss: 0.0137 - eval_loss: 15.4218 - eval_acc: 0.7278 - eval_recall: 0.7005 - eval_f1: 0.7139 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 50 -  loss: 0.0118 - eval_loss: 15.4512 - eval_acc: 0.7267 - eval_recall: 0.6986 - eval_f1: 0.7124 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 51 -  loss: 0.0104 - eval_loss: 15.5137 - eval_acc: 0.7283 - eval_recall: 0.6963 - eval_f1: 0.7119 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 52 -  loss: 0.0120 - eval_loss: 15.5821 - eval_acc: 0.7300 - eval_recall: 0.6943 - eval_f1: 0.7117 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 53 -  loss: 0.0093 - eval_loss: 15.5959 - eval_acc: 0.7271 - eval_recall: 0.6940 - eval_f1: 0.7102 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 54 -  loss: 0.0101 - eval_loss: 15.6220 - eval_acc: 0.7271 - eval_recall: 0.6930 - eval_f1: 0.7097 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 55 -  loss: 0.0095 - eval_loss: 15.6179 - eval_acc: 0.7269 - eval_recall: 0.6950 - eval_f1: 0.7106 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 56 -  loss: 0.0095 - eval_loss: 15.6224 - eval_acc: 0.7303 - eval_recall: 0.6956 - eval_f1: 0.7126 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 57 -  loss: 0.0088 - eval_loss: 15.6098 - eval_acc: 0.7303 - eval_recall: 0.6973 - eval_f1: 0.7134 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 58 -  loss: 0.0095 - eval_loss: 15.6189 - eval_acc: 0.7296 - eval_recall: 0.6973 - eval_f1: 0.7130 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 59 -  loss: 0.0110 - eval_loss: 15.6502 - eval_acc: 0.7296 - eval_recall: 0.6966 - eval_f1: 0.7127 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 60 -  loss: 0.0092 - eval_loss: 15.6575 - eval_acc: 0.7293 - eval_recall: 0.6963 - eval_f1: 0.7124 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 61 -  loss: 0.0088 - eval_loss: 15.6664 - eval_acc: 0.7299 - eval_recall: 0.6960 - eval_f1: 0.7125 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 62 -  loss: 0.0089 - eval_loss: 15.6661 - eval_acc: 0.7299 - eval_recall: 0.6966 - eval_f1: 0.7129 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 63 -  loss: 0.0088 - eval_loss: 15.6665 - eval_acc: 0.7302 - eval_recall: 0.6976 - eval_f1: 0.7135 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 64 -  loss: 0.0097 - eval_loss: 15.6643 - eval_acc: 0.7301 - eval_recall: 0.6973 - eval_f1: 0.7133 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 65 -  loss: 0.0089 - eval_loss: 15.6658 - eval_acc: 0.7293 - eval_recall: 0.6973 - eval_f1: 0.7129 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 66 -  loss: 0.0093 - eval_loss: 15.6672 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 67 -  loss: 0.0088 - eval_loss: 15.6682 - eval_acc: 0.7294 - eval_recall: 0.6976 - eval_f1: 0.7131 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 68 -  loss: 0.0085 - eval_loss: 15.6699 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 69 -  loss: 0.0099 - eval_loss: 15.6697 - eval_acc: 0.7294 - eval_recall: 0.6976 - eval_f1: 0.7131 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 70 -  loss: 0.0084 - eval_loss: 15.6697 - eval_acc: 0.7294 - eval_recall: 0.6976 - eval_f1: 0.7131 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 71 -  loss: 0.0093 - eval_loss: 15.6715 - eval_acc: 0.7293 - eval_recall: 0.6973 - eval_f1: 0.7129 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 72 -  loss: 0.0095 - eval_loss: 15.6713 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 73 -  loss: 0.0089 - eval_loss: 15.6715 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 74 -  loss: 0.0089 - eval_loss: 15.6706 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 75 -  loss: 0.0097 - eval_loss: 15.6704 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 76 -  loss: 0.0087 - eval_loss: 15.6705 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 77 -  loss: 0.0091 - eval_loss: 15.6704 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 78 -  loss: 0.0092 - eval_loss: 15.6705 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 79 -  loss: 0.0093 - eval_loss: 15.6706 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 80 -  loss: 0.0096 - eval_loss: 15.6705 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 81 -  loss: 0.0091 - eval_loss: 15.6706 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 82 -  loss: 0.0095 - eval_loss: 15.6705 - eval_acc: 0.7293 - eval_recall: 0.6973 - eval_f1: 0.7129 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 83 -  loss: 0.0092 - eval_loss: 15.6704 - eval_acc: 0.7293 - eval_recall: 0.6973 - eval_f1: 0.7129 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 84 -  loss: 0.0096 - eval_loss: 15.6704 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 85 -  loss: 0.0084 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 86 -  loss: 0.0088 - eval_loss: 15.6704 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 87 -  loss: 0.0093 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 88 -  loss: 0.0114 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 89 -  loss: 0.0094 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 90 -  loss: 0.0101 - eval_loss: 15.6704 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 91 -  loss: 0.0099 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 92 -  loss: 0.0082 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 93 -  loss: 0.0088 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 94 -  loss: 0.0083 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 95 -  loss: 0.0089 - eval_loss: 15.6704 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 96 -  loss: 0.0116 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 97 -  loss: 0.0098 - eval_loss: 15.6702 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 98 -  loss: 0.0084 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 99 -  loss: 0.0097 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
+Loading features from cached file dataset/cluener/cached_crf-dev_bilstm_crf_ner
+
+Epoch: 100 -  loss: 0.0092 - eval_loss: 15.6703 - eval_acc: 0.7291 - eval_recall: 0.6973 - eval_f1: 0.7128 
